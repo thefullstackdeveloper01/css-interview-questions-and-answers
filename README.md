@@ -6,18 +6,6 @@
 
 This guide is organized into **11 core sections**, progressing from CSS fundamentals to advanced architecture and tooling:
 
-1. **CSS Basics & Syntax**
-2. **CSS Selectors & Specificity**
-3. **The Box Model & Sizing**
-4. **Positioning & Display Properties**
-5. **CSS Units & Formatting**
-6. **Layouts: Flexbox & CSS Grid**
-7. **Responsive Web Design & Media Queries**
-8. **Transitions, Transforms & Animations**
-9. **Advanced CSS Concepts & Performance**
-10. **CSS Methodologies & Preprocessors**
-11. **Modern CSS Frameworks & Tools**
-
 ## 📑 Table of Contents
 
 - [1. CSS Basics & Syntax](#1-css-basics--syntax)
@@ -45,18 +33,6 @@ This guide is organized into **11 core sections**, progressing from CSS fundamen
 ---
 
 It covers everything from basic syntax to advanced layout techniques, performance optimization, and modern CSS methodologies. 
-
-1. [CSS Basics & Syntax](#1-css-basics--syntax)
-2. [CSS Selectors & Specificity](#2-css-selectors--specificity)
-3. [The Box Model & Sizing](#3-the-box-model--sizing)
-4. [Positioning & Display Properties](#4-positioning--display-properties)
-5. [CSS Units & Formatting](#5-css-units--formatting)
-6. [Layouts: Flexbox & CSS Grid](#6-layouts-flexbox--css-grid)
-7. [Responsive Web Design & Media Queries](#7-responsive-web-design--media-queries)
-8. [Transitions, Transforms & Animations](#8-transitions-transforms--animations)
-9. [Advanced CSS Concepts & Performance](#9-advanced-css-concepts--performance)
-10. [CSS Methodologies & Preprocessors](#10-css-methodologies--preprocessors)
-11. [Modern CSS Frameworks & Tools](#11-modern-css-frameworks--tools)
 
 ## 1. CSS Basics & Syntax
 
